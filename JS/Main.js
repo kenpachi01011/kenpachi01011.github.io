@@ -5,7 +5,6 @@ window.addEventListener("DOMContentLoaded", (event) => {
             topButton.style.display = "block";
         } else {
             topButton.style.display = "none";
-
         }
     }
 })
